@@ -1,0 +1,23 @@
+{
+  "greeting": "Hey Coding",
+  "name": "Genius",
+  "greetingText": "Arkaprava Bhattacharya",
+  "wishText": "May the js.prototypes always be with you! :)",
+  "imagePath": "img/arka.png",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Happy birthday my JAAAAAN!! Many many happy returns of the day..........",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are My Bestieee",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, I know I couldn't do as well as you, but I tried something special for you.",
+  "replayText": "Click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
